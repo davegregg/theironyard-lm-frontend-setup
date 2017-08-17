@@ -1,6 +1,6 @@
 # Git
 
-* `brew install git`
+* Install Git with `brew install git`
 * Open a fresh Terminal tab and check the version.
 	* `git --version`
 	* Should read `git version 2.11.0` (or higher)
