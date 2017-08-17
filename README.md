@@ -3,16 +3,16 @@
 * Open your Terminal. It's inside Apps > Utilities (or search for it using Spotlight [the magnifying glass in the upper right]).
 * Install Apple's Xcode Command-Line Tools through your terminal: run `xcode-select --install`.
 
-# * [Install Apple's Xcode Command-Line Tools](./xcode.md#xcode-command-line-tools)
+# [Install Apple's Xcode Command-Line Tools](./xcode.md#xcode-command-line-tools)
 
-# * [Install Homebrew](./homebrew.md#homebrew)
+# [Install Homebrew](./homebrew.md#homebrew)
   
-# * [Install Git](./git.md#git)
+# [Install Git](./git.md#git)
 
-# * [Install Node and NPM](./node.md#node-and-npm)
+# [Install Node and NPM](./node.md#node-and-npm)
 
-# * [Install Atom and APM](./atom.md#atom-and-apm)
+# [Install Atom and APM](./atom.md#atom-and-apm)
 
-# * [Customize Atom](./atom.md#customize-atom)
+# [Customize Atom](./atom.md#customize-atom)
 
-# * [Other Mac niceties](./misc.md#other-mac-niceties)
+# [Other Mac niceties](./misc.md#other-mac-niceties)
