@@ -11,7 +11,7 @@ We're going to be using the [Atom](https://atom.io/) editor for a portion of the
 
 One of the things that makes Atom powerful is its package system. I've curated a list a recommended packages that will make your life easier over the coming weeks. *Run this in Terminal:*
 
-**→** `apm stars --user davegregg --install` **←**
+**▶** `apm stars --user davegregg --install` **◀**
 
 Packages this will install:
 
