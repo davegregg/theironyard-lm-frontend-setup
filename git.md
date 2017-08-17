@@ -1,4 +1,4 @@
-## Git
+# Git
 
 * `brew install git`
 * Open a fresh Terminal tab and check the version.
