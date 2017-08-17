@@ -4,13 +4,13 @@
 * Install Apple's Xcode Command-Line Tools
   - Run `xcode-select --install`
 
-# [Install Homebrew](./homebrew.md)
+# [Install Homebrew](./homebrew.md#homebrew)
   
-# [Install Git](./git.md)
+# [Install Git](./git.md#git)
 
-# [Install Node](./node.md)
+# [Install Node and NPM](./node.md#node-and-npm)
 
-# [Install Atom and the Atom Package Manager](./atom.md)
+# [Install Atom and APM](./atom.md#atom-and-apm)
 
 # [Customize Atom](./atom.md#customize-atom)
 
