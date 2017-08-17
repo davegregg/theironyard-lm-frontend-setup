@@ -11,6 +11,8 @@
 ### [Go back](./README.md)
  
 &nbsp;
+&nbsp;
+&nbsp;
 <ul id="footnotes">
 	<li><a href="#homebrew-token" id="homebrew">1</a>: For a bit of background, homebrew is a "package manager" for OSX. Package managers are commonly found on Linux servers and other operating systems to make the installation of command-line programs easier. On the Mac, Homebrew does much the same thing.
 </ul>
