@@ -1,8 +1,8 @@
 # Initial setup for frontend development for your Mac
 
 * Open your Terminal. It's inside Apps > Utilities (or search for it using Spotlight [the magnifying glass in the upper right]).
-* Install Apple's Xcode Command-Line Tools
-  - Run `xcode-select --install`
+
+# [Install Apple's Xcode Command-Line Tools](./xcode.md#xcode-command-line-tools)
 
 # [Install Homebrew](./homebrew.md#homebrew)
   
