@@ -5,3 +5,5 @@
   - Go here: <https://nodejs.org/en/download/> and download the Mac installer. Click the installer and follow the instructions.
   
   - NPM helps you install and manage applications which rely on Node. It will be installed automatically along with Node.
+
+### [Go back](./README.md)
