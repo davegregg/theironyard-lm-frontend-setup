@@ -23,4 +23,5 @@ There is only a single application we're going to ask you to _not install_ durin
 
 It's a fine app, but for class purposes, we want to learn Git from the bare metal. That way, the GitHub desktop app will actually make sense if you decide to use it later in your career.
 
+&nbsp;
 ### [Go back](./README.md)
