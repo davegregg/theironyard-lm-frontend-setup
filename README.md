@@ -3,9 +3,8 @@
 * Open your Terminal. It's inside Apps > Utilities (or search for it using Spotlight [the magnifying glass in the upper right]).
 * Install Apple's Xcode Command-Line Tools
   - Run `xcode-select --install`
-* Install [Homebrew](http://brew.sh)<sup><a href="#homebrew" id="homebrew-token">1</a></sup>.
-  - Run `sudo /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-  - Follow the instructions.
+
+# [Install Homebrew](./homebrew.md)
   
 # [Install Git](./git.md)
 
@@ -99,8 +98,3 @@ None of these are _required_, but they're nice-to-haves.
 * **An app launcher:** Hunting around your Mac for a particular application to open gets tedious fast. You can use the built-in Spotlight (typically available via `⌘-Space`). Or you can use a purpose-built app launcher like [Alfred](http://www.alfredapp.com). In general, I find specific app launchers like Alfred (generally available via `Command-Space`) a bit snappier and they tend to have additional features that you might find handy.
 * **A password manager:** You're going to have a ton of passwords floating around and the typical options - one password for them all, or trying to remember them all - are both _horribly_ unsafe. Password managers such as [KeePass](http://keepass.info/download.html) (locally-installed only, so you'll have to backup your password database yourself), [1Password](https://agilebits.com/onepassword) (recommended, but pricey - $35-$50), [Dashlane](http://lp.dashlane.com/cjv2/?utm_source=adwords&utm_campaign=US_Search_Brand_Exact&utm_medium=15594053097&utm_term=dashlane&gclid=CPWqiLWyl8YCFQYuaQodm0MA1g), or [LastPass](https://lastpass.com) will make your life _significantly_ better and much more secure.
 * **A better Terminal:** The default Terminal application on your Mac is _fine_, really. But if you want to take it a step further, I can highly recommend [iTerm 2](https://www.iterm2.com). Bonus: It's _free_. Note: Download the test release (iTerm2 3.0.10 beta (OS 10.8+))
-
-
-<ul id="footnotes">
-	<li><a href="#homebrew-token" id="homebrew">1</a>: For a bit of background, homebrew is a "package manager" for OSX. Package managers are commonly found on Linux servers and operating system to make the installation of command line programs easier. On the Mac, homebrew does much the same thing. <a href="#homebrew-token">Back</a></li>
-</ul>
