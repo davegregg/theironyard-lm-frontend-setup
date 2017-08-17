@@ -6,35 +6,12 @@
 * Install [Homebrew](http://brew.sh)<sup><a href="#homebrew" id="homebrew-token">1</a></sup>.
   - Run `sudo /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
   - Follow the instructions.
+  
+# [Install Git](./git.md)
 
-## Git
+# [Install Node](./node.md)
 
-* `brew install git`
-* Open a fresh Terminal tab and check the version.
-	* `git --version`
-	* Should read `git version 2.11.0` (or higher)
-    * If it doesn't, try `brew upgrade git`
-* Remember when you set up an account on [GitHub](https://www.github.com) (it was in the prework). Well, we need to tell Git who you are there so things will match up later.
-	* `git config --global user.name "YOUR NAME"`
-	* `git config --global user.email "YOUR EMAIL ADDRESS"` (this should be the same email address you used to sign up for GitHub)
-	* `git config --global credential.helper osxkeychain` (rather than go into detail on what this does, [see GitHub's docs](https://help.github.com/articles/caching-your-github-password-in-git/).
-    * If you're feeling more adventurous, go with the SSH key approach
-      outlined here: <https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/>
-* We're going to want to ignore some Mac-specific files in our git commits. Run the follow commands:
-  * `echo .DS_Store >> ~/.gitignore_global`
-  * `git config --global core.excludesfile ~/.gitignore_global`
-
-# Node
-
-  There are some tools in Atom which require Node, so let's go ahead and get that out of the way.
-
-  Go here: <https://nodejs.org/en/download/> and download the Mac installer. Click the installer and follow the instructions.
-
-# Atom and Atom Package Manager
-
-We're going to be using [Atom](https://atom.io/), but in the next step we're going to add packages to Atom from the Terminal, so here's how to install the CLI (command-line interface) helpers for Atom:
-
-- Run `which apm` in your Terminal. If it returns a file path, then Atom and its package manager are already installed in your command-line correctly. If it says instead, "apm not found" (or returns nothing), then open Atom the traditional way, find "Install Shell Scripts" in the Atom menu, and click it. Close your Terminal and re-open it.
+# [Install Atom and the Atom Package Manager](./atom.md)
 
 ### Tweaking Atom
 
@@ -122,14 +99,6 @@ None of these are _required_, but they're nice-to-haves.
 * **An app launcher:** Hunting around your Mac for a particular application to open gets tedious fast. You can use the built-in Spotlight (typically available via `⌘-Space`). Or you can use a purpose-built app launcher like [Alfred](http://www.alfredapp.com). In general, I find specific app launchers like Alfred (generally available via `Command-Space`) a bit snappier and they tend to have additional features that you might find handy.
 * **A password manager:** You're going to have a ton of passwords floating around and the typical options - one password for them all, or trying to remember them all - are both _horribly_ unsafe. Password managers such as [KeePass](http://keepass.info/download.html) (locally-installed only, so you'll have to backup your password database yourself), [1Password](https://agilebits.com/onepassword) (recommended, but pricey - $35-$50), [Dashlane](http://lp.dashlane.com/cjv2/?utm_source=adwords&utm_campaign=US_Search_Brand_Exact&utm_medium=15594053097&utm_term=dashlane&gclid=CPWqiLWyl8YCFQYuaQodm0MA1g), or [LastPass](https://lastpass.com) will make your life _significantly_ better and much more secure.
 * **A better Terminal:** The default Terminal application on your Mac is _fine_, really. But if you want to take it a step further, I can highly recommend [iTerm 2](https://www.iterm2.com). Bonus: It's _free_. Note: Download the test release (iTerm2 3.0.10 beta (OS 10.8+))
-
-## What _not_ to install
-
-There is only a single application we're going to ask you to _not install_ during class:
-
-[GitHub for Mac](https://mac.github.com).
-
-It's a fine app, but for class purposes, we want to learn Git from the bare metal. That way, said the GitHub desktop app actually makes sense if you decide to use it later.
 
 
 <ul id="footnotes">
