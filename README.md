@@ -12,7 +12,7 @@
 
 # [Install Atom and the Atom Package Manager](./atom.md)
 
-# [Setup Atom](./atom.md#setup-atom)
+# [Customize Atom](./atom.md#customize-atom)
 
 &nbsp;
 # Other Mac niceties
