@@ -8,8 +8,11 @@
 * Install Homebrew Cask to use Homebrew to install GUI applications in addition to commandline applications.
   - `brew tap caskroom/cask`
  
+&nbsp;
 ### [Go back](./README.md)
  
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
