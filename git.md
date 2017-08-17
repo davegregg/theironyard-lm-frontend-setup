@@ -22,3 +22,5 @@ There is only a single application we're going to ask you to _not install_ durin
 [GitHub for Mac](https://mac.github.com), which is the non-commandline (GUI) version of `git`.
 
 It's a fine app, but for class purposes, we want to learn Git from the bare metal. That way, the GitHub desktop app will actually make sense if you decide to use it later in your career.
+
+### [Go back](./README.md)
