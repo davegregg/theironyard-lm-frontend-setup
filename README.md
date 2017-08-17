@@ -13,4 +13,7 @@
 
 # [Customize Atom](./atom.md#customize-atom)
 
+<!--- # [Install Visual Studio Code](./visual-studio-code.md#visual-studio-code) --->
+<!--- # [Customize VS Code](./visual-studio-code.md#customize-vs-code) --->
+
 # [Other Mac niceties](./misc.md#other-mac-niceties)
