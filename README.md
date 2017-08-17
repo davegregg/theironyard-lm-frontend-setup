@@ -3,8 +3,6 @@
 * Open your Terminal. It's inside Apps > Utilities (or search for it using Spotlight [the magnifying glass in the upper right]).
 * Install Apple's Xcode Command-Line Tools through your terminal: run `xcode-select --install`.
 
-# [Install Apple's Xcode Command-Line Tools](./xcode.md#xcode-command-line-tools)
-
 # [Install Homebrew](./homebrew.md#homebrew)
   
 # [Install Git](./git.md#git)
